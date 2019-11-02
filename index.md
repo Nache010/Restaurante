@@ -2,6 +2,6 @@
 	<head>
 	</head>
 	<body>
-		<a href="Restaurante"> Ir a la página</a>
+		<a href="Restaurante/index.html"> Ir a la página</a>
 	</body>
 </html>
